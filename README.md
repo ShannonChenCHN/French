@@ -5,26 +5,175 @@ Learning a new language is fun, and it's time for French🇫🇷 now.
 
 
 
-多听+模仿
+Tips: 
+- 多听+模仿
+- 学发音（法语助手）
+  - 小猪佩奇
 
+线下：
+- 去上海（新天地）的法国餐厅
 
-学发音
-小猪佩奇
-
-法语等级 
+法语等级： 
 - 旅游水平 A2 
 - 商务水平 B2
-
-去上海的法国餐厅，新天地
 
 
 ## 第 1 课 数字
 
+视频教程：https://anychinavisa.com/arcade/%e6%b3%95%e8%af%ad%e6%95%b0%e5%ad%97%e5%86%b7%e7%9f%a5%e8%af%86/
+
+课程内容：
+1. 动物
+2. 数字
+3. 语法：主有形容词
+4. 新单词+发音
+
+### 1. 动物 Animal
+
+un chat    一只猫
+un ours    一只熊
+un chaton  一只猫宝宝
+un ourson  一只熊宝宝
+
+### 2. 数字
+un        1
+deux      2
+trois     3
+quatre    4
+cinq      5
+six       6
+sept      7
+huit      8
+neuf      9
+dix       10
+
+### 3. 语法：主有形容词
+
+
+mon/ma   我的（阳/阴）
+ton/ta   你的（阳/阴）
+son/sa   他的（阳/阴）
+notre    我们的
+votre    你们的
+leur     他们的
+
+> 注：以上的阴阳性指的是主有形容词后的名词的阴阳性，而不是主语的阴阳性。
+
 
 ## 第 2 课 点餐
 
+视频教程：https://anychinavisa.com/arcade/%e5%a6%82%e4%bd%95%e7%94%a8%e6%b3%95%e8%af%ad%e7%82%b9%e9%a4%90/
+
+课程内容：
+1. 食物和饮料
+2. 点餐
+3. 语法：品质形容词
+4. 文化：法国的罢工文化
+
+### 1. 食物 Nourriture
+
+manger 吃，mange 的不定式，没有主语时用的形式，当 manger 和主语使用时，应该用 manage，比如：
+
+je mange 我吃
+
+
+un restaurant  一家餐厅
+un fromage     一整个奶酪
+un morceau de fromage     一块奶酪
+
+un chocolat	  一整个巧克力
+un morceau de chocolat   一块巧克力
+
+un gâteau   一整个蛋糕
+un morcean de gâteau 1 块蛋糕
+
+
+### 2.饮料 Boisson
+
+boire 	  喝(不定式）
+je bois   我喝
+un bar    -家酒吧
+un cafe   一杯咖啡/一家咖啡厅
+un bon café        一杯好喝的咖啡
+un thé	           一杯茶
+un chocolat        一杯巧克力
+un choclat chaud   一杯热巧克力
+
+
+Combien de personnes? 多少人?
+
+Pour manger	ou pour boire?  是吃饭还是喝一杯
+ou   或者
+
+le menu	     菜单
+l'addition   账单
+
+### 3.品质形容词  Adjectif qualificatif
+
+joli       漂亮的
+bon       好的，良好的，好吃的，好看的，好喝的
+nouveau   新的
+
+un joli bébé	一个漂亮的宝宝
+un bon livre	一本好看的书
+un bon café	    一杯好喝的咖啡
+un bon gâteau   一个好吃的蛋糕
+un bon chien    一只乖狗狗
+un nouveau livre   一本新书
+bon appétit	       祝你用餐愉快
+bon courage        加油
+
 
 ## 第 3 课 阴阳性
+
+视频教程：https://anychinavisa.com/arcade/%e6%b3%95%e8%af%ad%e8%af%8d%e6%80%a7%e7%9a%84%e9%98%b4%e9%98%b3%e6%80%a7/
+
+课程内容：
+1. 男性
+2. 女性
+3. 语法：阴阳性
+4. Bonus：动词 manger
+
+
+
+### 1.男性 Masculln
+
+
+un homme	一个男人
+un garçon   一个男孩
+C'est un garçon
+
+> 注: garçon 中 c 的下面多了一个小尾巴，这个小尾巴叫 cédille，它的作用是表示这个 c 要念 s，因为 c 一般读成 k。
+
+
+### 2、女性 Fémlnln
+
+une	femme 一个女人
+> 注意这里的发音：如果 e 后有两个 m 时，e 该成 a。
+
+une fille  一个女孩/一个女儿
+
+### 3. 阴阳性
+
+une femme/un homme
+une chatte/un chat
+une fille/un fils
+une ourse/un ours
+une chienne/un chien
+
+形容词也受阴阳性影响，一般形容词的阳性形式后面加 e 就变成了阴性形式了，比如：
+
+joli/jolie
+
+不过有时候也会有些例外，比如：
+
+nouveau/nouvelle
+bon/bonne
+
+
+### 4. manger 和 manges
+
+mange 可以和je(我)、il(他)、elle(她)使用，但 manges 只能和 Tu(你)使用.
 
 
 ## 第 4 课 打招呼
@@ -183,6 +332,11 @@ Singapour 新加坡
 
 Corée 朝鲜/韩国
 
+Espagne 西班牙
+
+Angleterre 英国
+
+Italie  意大利
 
 #### 语言
 
@@ -230,7 +384,7 @@ Je suis Léon. 我叫 Léon.
 
 professeur 老师
 
-étudiant 学生
+étudiant 大学生
 
 employé 职员
 
@@ -242,7 +396,7 @@ Je parle un peu français. 我会说一点法语
 
 ### 4. 作业：自我介绍
 
-Bonjour, Je suis Shannon.
+Bonjour, Je m’appelle  Shannon.
 
 Je suis programmeur à Shanghai.
 
@@ -362,11 +516,11 @@ ils/elle aiment
 
 2. appeller 叫
 
-je m’appelle 
+je m'appelle   我叫...
 
 tu appelles
 
-il/elle appelle
+il/elle s'appelle    他/她叫...
 
 nous appelons
 
@@ -405,5 +559,219 @@ L'été est là. 夏天来了
 
 
 
-## 第 6 课 复习回顾+考试
+## 第 6 课 人
+
+étudier 学习
+
+J'étudie beaucoup. 我学习很努力。
+
+Tu habites à New York? 你住在纽约吗？
+
+J'étudie à Paris. 我在巴黎学习。
+
+Tu travailles à Berlin? 你在柏林工作吗？
+
+J'habite ici. 我住在这里。
+
+J'habite avec Paul. 我和保罗一起住。
+
+evec toi. 和你一起
+
+Paul est en Europe.  Paul 在欧洲。
+
+université 大学
+
+journaliste  记者
+
+une voiture   一辆汽车
+
+un avion      一架飞机
+
+un taxi      一辆出租车
+
+un train      一列火车
+
+la voiture    这辆汽车
+
+en train      乘火车
+
+aéroport 机场
+hôtel 酒店
+
+une valise  一个手提箱
+
+un passeport  一本护照
+
+un billet d'avion  一张机票
+
+
+Elle va à l'hôtel.    她去这家旅馆。
+
+Je prends l'avion.    我乘坐飞机。（avion 前面多了 l'，是因为 avion 是 a 开头的，所以 le 改成 l'）
+
+Il va à la gare.      他去那座火车站。
+Je vais à la gare.    我去这座火车站。
+
+Je prends le train.   我乘坐火车。 （这里的 le 相当于 the）
+
+Tu prends la voiture?  你坐汽车吗？
+
+
+```
+le la les 是冠词、定冠词，相当于英语中的the。
+
+la+阴性名词单数；le+阳性名词单数；les+名词复数，不分阴性和阳性。de在法语中作介词使用，主要表从属关系。这个词也没有什么实际的意义，但是用法非常多。
+```
+
+
+```
+大家太棒了，说得都对！
+我在这里再说一下：
+
+ton + 阳性名词（单数）
+ta + 阴性名词（单数）
+tes +复数名词（阴阳性不分）
+
+ton chat
+ta mère
+tes parents
+```
+
+Où est le restaurant, s'il vous plaît? 请问这家饭馆在哪里？
+
+Un croissant, s'il vous plaît?        请给我一个牛角面包
+
+avoir 有(动词原形)
+
+J'ai une valise.           我有一个手提箱
+Marc a un passeport.       Marc 有一本护照
+Tu as un billet d'avion.   你有机票吗？
+
+Passeport, s'il vous plaît. 请给我护照。
+
+Berlin  柏林
+
+
+
+```
+法语中，“在”有两种说法。如果后面是城市，那就用 à；如果是国家，大多数情况下用 en。
+```
+
+J'habite ici. 我住在这里。
+
+Il a une valise. 他有一个手提箱。
+
+Elles sont très contentes.  她们非常高兴。
+
+
+## 第 7 课 旅行
+
+## 第 8 课 家庭
+
+un père  一位父亲
+
+un grand-père    一个祖父/外祖父
+
+Tu as un frère?  你有兄弟吗？
+
+Tu as un fils?   你有儿子吗？
+
+Paul habite avec son père.  Paul 和他的父亲住在一起。
+Marc habite avec sa mère.  Marc 和他的母亲住在一起。
+
+
+une famille  一家人
+
+une mère  一位母亲
+une grand-mère   一位祖母/外祖母
+
+ma mère  我的母亲
+
+sa sœur  他/她的姐妹
+
+Ta sœur  你的姐妹
+
+la femme de Marc  Marc 的妻子
+
+le chat d'Alice   Alice 的猫
+
+Le mari de Julia est mexicain.   Julia 的丈夫是墨西哥人。
+
+animal de compagnie   宠物
+
+Mon fils veut un chien.   我的儿子想要一只狗。
+
+Où habite ta grand-mère?   你奶奶住在哪里？
+
+une maison  一座房子
+
+J'ai un jardin  我有一座花园
+
+appartement  公寓
+
+Le chien est dans la voiture.   狗在车里
+
+Tu as une fille? 你有女儿吗？
+
+chouette 猫头鹰
+
+## 第 9 课 日常活动
+
+知识点：
+1. à + le = au
+2. Nous voulons un taxi
+3. 使用 nous
+4. “我在哪里”怎么说？
+
+
+Nous voulons un taxi.           我们想要一辆出租车。
+Nous habitons en Angleterre.    我们住在英国。
+Nous avons une orange.  我们有一个橙子。
+Nous mangeons un croissant.  我们吃一个牛角面包。
+Nous aimons le chocolat.   我们喜欢吃巧克力。
+Nous aimons lire.  我们喜欢阅读。
+Nous sommes anglais.  我们是英国人。
+Nous sommes à l'école.  我们在学校。
+Nous allon à la banque.   我们去银行。
+Nous allons au trvail.  我们去工作。
+Nous sommes ici.  我们在这里。
+
+On est ici.   我们在这里。
+
+
+Je suis à la banque.   我在银行。
+
+Tu vas au parc.  你去公园。
+
+Elle va au travail en bus.   Elle 坐公共汽车去上班。
+
+la musique 音乐
+une banque  一家银行
+une école
+un parc  一个公园
+une boulangerie  一家面包店
+le métro   地铁
+les livres     书
+
+## 第 10 课 人 2
+
+相关知识点：复数
+
+deux chats 两只猫
+les garçons
+les oranges
+
+Ils sont étudiants.   
+Elles sont étudiantes.
+
+Ils parlent français.
+Ils mangent les croissants.
+
+Ils travaillent. 
+
+Les étudiants étudient. 
+
+Marie et Paul sont en Chine.  
+
+Ils ont un cheval.  他们有一匹马。
 
