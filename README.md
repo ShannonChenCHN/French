@@ -7,6 +7,11 @@ Learning a new language is fun, and it's time for French🇫🇷 now.
 
 Tips: 
 - 多听+模仿
+- 推荐 app
+  - 多邻国
+  - 法语助手
+  - Innovative（FrenchPod101）
+  - 每日法语听力
 - 学发音（法语助手）
   - 小猪佩奇
 
